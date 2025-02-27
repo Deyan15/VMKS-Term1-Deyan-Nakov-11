@@ -1,2 +1,2 @@
-# VMKS-Term1-Deyan-Nakov-11
+# VMKS-Term1-Deyan-Nakov
 Проект по ВМКС 
